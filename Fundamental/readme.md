@@ -1,0 +1,21 @@
+# Fundamental Javascrip 
+
+- 1. Variables
+- 2. Arithmetic Operato
+- 3. Accept Input
+- 4. Type conversion
+- 5. Constant
+- 6. Counter Program 
+- 7. Math
+- 8. Random Number
+- 9. If statement
+- 10. Checked propery
+- 11. Tenary operator
+- 12. Switches
+- 13. String Methods
+- 14. String sliding
+- 15. Method chaining 
+- 16. Logical Operator
+- 17. Strict equality
+- 18. while loop
+- 19. for loop 
