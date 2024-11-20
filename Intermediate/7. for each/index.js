@@ -32,3 +32,27 @@ function cube(element, index, array){
 function display(element){
     console.log(element);
 }
+
+
+let fruits = ["apple", "orange", "banana", "coconut"];
+fruits.forEach(display);
+fruits.forEach(upperCase);
+fruits.forEach(lowerCase);
+fruits.forEach(capitalize);
+
+function upperCase(element, index, array) {
+    array[index] = element.toUpperCase(); // Corrected method name
+}
+
+function lowerCase(element, index, array) {
+    array[index] = element.toLowerCase(); // Corrected method name
+}
+
+function capitalize(element, index, array) {
+    array[index] = element.charAt(0).toUpperCase() + element.slice(1); // Corrected method name
+}
+
+function display(element) {
+    console.log(element);
+}  
+
