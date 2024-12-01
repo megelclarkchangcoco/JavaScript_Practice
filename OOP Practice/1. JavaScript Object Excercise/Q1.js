@@ -2,7 +2,7 @@
 // Write a function reverseString that takes a string as input and returns 
 // the string reversed
 
-const outputs = document.getElementById('outputs');
+const outputs = document.getElementById('output1');
 
 function reverseString(str) {
     const h1 = document.createElement('h1');
