@@ -24,5 +24,5 @@ function isPalindrome(str) {
     return true;
 }
 
-isPalindrome("racecar");
-isPalindrome("hello");
+isPalindrome("racecar"); // true
+isPalindrome("hello"); // false 
